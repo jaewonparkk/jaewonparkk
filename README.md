@@ -1,6 +1,6 @@
 # Hi, I'm Jaewon 👋
 
-I am a Computer Science and Mathematics student at Boston College with interests in software engineering, artificial intelligence, and systems. I enjoy building practical products that solve real-world problems across research, education, and operations.
+I am a Computer Science and Mathematics student at Boston College. I enjoy building practical products that solve real-world problems across research, education, and operations.
 
 ## I am currently working on... 
 _(In Progress)_
