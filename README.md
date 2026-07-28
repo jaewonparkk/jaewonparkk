@@ -5,9 +5,6 @@ I am a Computer Science and Mathematics student at Boston College.
 ## I am currently working on... 
 _(In Progress)_
 
-- 🧠 **EEG platform**  
-  EEG preprocessing infrastructure designed to help research and clinical teams build more standardized, efficient, and transparent workflows.
-
 - 🤖 **ScratchJr AI Assistant**  
   A retrieval-augmented AI assistant powered by the Gemini API that answers questions about ScratchJr lessons, curriculum content, and classroom activities.
 
