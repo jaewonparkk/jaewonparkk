@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 # Hi, I'm Jaewon 👋
 
@@ -60,7 +60,7 @@ An offline-first IoT productivity device combining an ESP32 touchscreen timer, c
 ## What I care about
 
 ```text
-Education × Research × Engineering
+Business × Research × Engineering
           ↓
 Useful technology with real-world impact
 ```
