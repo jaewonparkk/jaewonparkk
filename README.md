@@ -2,13 +2,9 @@
 
 # Hi, I'm Jaewon 👋
 
-I am a student at Boston College studying CS & Math. 
+CS & Math @ Boston College  
+Building products and things I find interesting.
 
-- 💼 Interested in the intersection of software engineering and business
-- 🌱 Drawn to real-world problems where technology can improve how people and organizations operate
+[Portfolio](https://www.jaewonparkk.com) · [LinkedIn](https://www.linkedin.com/in/jaewonparkk)
 
-```text
-Business problem × Analytical thinking × Engineering
-                         ↓
-          Practical, measurable solutions
-```
+</div>
